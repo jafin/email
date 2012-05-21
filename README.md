@@ -9,7 +9,7 @@ Features
 - Easily render and send emails in your applications, in text, HTML, or both
 - Supports Postmark (http://postmarkapp.com), and plain old SMTP out of the box (and it's trivial to write your own IEmailProvider implementation)
 - Supports the Liquid templating language, ensuring safe and fast rendering of batched emails with a well-known standard
-- A built-in delivery service that can delivery of email from a pickup directory (ideal for hosting in a Windows Service) in parallel
+- A built-in delivery service that can deliver email from a pickup directory (ideal for hosting in a Windows Service) in parallel
 - Support for time-released delivery (i.e. "send this email in 3 days") and email throttling (i.e. "deliver 100 emails per hour")
 - A Reactive Extensions hook for when you want to send email from an observable (with a built-in directory watcher)
 
