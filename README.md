@@ -4,10 +4,6 @@ Applications of any significance have to send email to their users. This library
 .NET applications. It covers most major scenarios for the delivery of email without trying to do more than it should.
 It uses .NET 4's parallel features for predictable, stable blocking queues, etc.
 
-Is it any good?
----------------
-Yes.
-
 Features
 --------
 - Easily render and send emails in your applications, in text, HTML, or both
@@ -23,6 +19,10 @@ Benefits
 - Can be hosted standalone so you're not beholden to any particular web framework
 - Lends itself well to CMS solutions where users have the ability to edit their own email templates (templates can't execute server-side code!)
 - Debugging support allows you to rewrite all recipients to a testing mail account, or capture all outgoing messages in a pickup directory
+
+Is it any good?
+---------------
+Yes.
 
 How do I use it?
 ----------------
