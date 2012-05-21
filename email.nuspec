@@ -10,6 +10,6 @@
 		<language>en-US</language>
 		<projectUrl>http://github.com/danielcrenna/email</projectUrl>
 		<licenseUrl>https://github.com/danielcrenna/email/blob/master/LICENSE</licenseUrl>
-		<tags>JSON parser</tags>   
+		<tags>email delivery</tags>   
 	</metadata>
 </package>
