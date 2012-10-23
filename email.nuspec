@@ -2,7 +2,7 @@
 <package>
 	<metadata>
 		<id>email</id>
-		<version>1.0.0</version>
+		<version>1.1.0</version>
 		<authors>Daniel Crenna</authors>
 		<owners>Daniel Crenna</owners>
 		<description>Easily render and send emails in your applications. Supports templating, parallel delivery, observable folders, retry policy, backlog, and more.</description>
